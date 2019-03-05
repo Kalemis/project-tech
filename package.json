@@ -1,0 +1,18 @@
+{
+  "name": "datingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Artemis Kalemis",
+  "license": "ISC",
+  "dependencies": {
+    "string-similarity": "^3.0.0",
+    "repeat-string": "1.6.1"
+  },
+  "devDependencies": {
+    "nodemon":"1.18.10"
+  }
+}
