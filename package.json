@@ -9,10 +9,13 @@
   "author": "Artemis Kalemis",
   "license": "ISC",
   "dependencies": {
+    "chat-engine": "^0.9.21",
+    "express": "^4.16.4",
+    "validator": "^10.11.0",
     "string-similarity": "^3.0.0",
     "repeat-string": "1.6.1"
   },
   "devDependencies": {
-    "nodemon":"1.18.10"
+    "nodemon": "1.18.10"
   }
 }
